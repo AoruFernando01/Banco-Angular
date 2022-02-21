@@ -1,6 +1,13 @@
 import { Component } from '@angular/core';
 import { TransferenciaService } from './extrato/services/transferencia.service';
 
+/*
+░░░░░░░███████████]▄▄▄▄▄▄▄▄▄▄▄▃
+    ▂▄▅███𝕱𝔢𝔯𝔫𝔫𝔡███▅▄▃▂
+I█████████████████████████].
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
+ */
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
