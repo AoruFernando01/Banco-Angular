@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { TransferenciaService } from './extrato/services/transferencia.service';
+import { TransferenciaService } from './services/transferencia.service';
 
 /*
 ░░░░░░░███████████]▄▄▄▄▄▄▄▄▄▄▄▃
@@ -20,7 +20,4 @@ export class AppComponent {
 
   }
 
-  transferir($event) {
-    this.service.adicionar($event);
-  }
 }
